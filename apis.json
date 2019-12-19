@@ -1,0 +1,43 @@
+{
+    "name": "Memphis, TN",
+    "description": "Search the City of Memphis, public records using best found research sources online. This City zip code is 37501 with a total population of 646,889. Look up recorded information of Memphis, including demographics and local economy. Link to all levels of Memphis, government and their sites with services which provide public information. Current economy, business and housing data. Read about up to date current events and what is occurring in the City of Memphis. Find out about the background of residents and recorded statistics. Request criminal records specific to the City of Memphis, from law enforcement departments with access to the state's repository with official background check of arrests and convicted felonies. Access a directory aimed toward producing open public records and instant information available online. Memphis sources are added on a regular basis for the best and most current services.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/pull_image_10-12-2019-03-09-pm.jpg",
+    "tags": [
+        "api provider",
+        "city government",
+        "data provider",
+        "have api",
+        "profile"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/memphis-tn\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Memphis, TN",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/pull_image_10-12-2019-03-09-pm.jpg",
+            "humanURL": "http:\/\/www.open-public-records.com\/tennessee\/memphis_data.htm",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/memphis-tn-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/memphis-tn-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.open-public-records.com\/tennessee\/memphis_data.htm"
+        }
+    ]
+}
